@@ -33,3 +33,5 @@
 bazel-*
 external
 .cache
+build
+scripts/
